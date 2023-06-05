@@ -1,0 +1,4 @@
+Ejemplos de hardware:
+1. Memoria RAM (Random Access Memory): Es la memoria principal a la que el procesador accede directamente para realizar operaciones y almacenar temporalmente datos necesarios para la ejecución de programas.
+2. Memoria ROM (Read Only Memory): Se utiliza para almacenar información esencial del sistema como la configuración básica del hardware. La memoria ROM conserva su contenido incluso cuando la computadora se apaga.
+3. Memoria Cache: Su función es almacenar temporalmente los datos e instrucciones más utilizados para que el procesador pueda acceder a ellos de manera más rápida.

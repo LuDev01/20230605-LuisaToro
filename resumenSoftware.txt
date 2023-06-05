@@ -1,0 +1,4 @@
+Ejemplos de software:
+1. Sistema Operativo (SO): Es aquel que nos permite administrar todos los programas que tenemos en nuestro computador.Proporciona una serie de funciones y servicios que permiten la ejecución de programas y la interacción con el hardware.
+2. Google Chrome: Es uno de los navegadores más usados utilizado para acceder a páginas web en internet.
+3. Microsoft Word: Es un programa que permite crear y editar documentos de texto como informes, currículums y demás.
